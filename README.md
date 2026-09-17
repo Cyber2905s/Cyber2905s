@@ -23,7 +23,7 @@ I like taking systems apart to see why they break, then building ones that don't
 
 Lately that's meant a lot of time in FastAPI and Node, wrestling with PostgreSQL and Redis to get data pipelines that are actually ACID-compliant instead of just claiming to be, and enough AWS to occasionally forget to turn something off. When I want to slow down and think in a different register, I drop into raw C++ and mess with sockets and threads — there's something satisfying about a TCP server that doesn't leak memory after a thousand connections.
 
-Outside of work I'm usually stuck on some algorithmic problem out of stubbornness more than necessity, or reading through a codebase just to see how someone else solved the same headache I'm having.
+The other half of my time goes into DSA, and not casually — I'm grinding toward SDE roles at companies where the bar for that is genuinely high, so it's less a hobby and more a daily habit at this point. Most nights end with one more problem than I planned on solving.
 
 <br>
 
@@ -51,6 +51,14 @@ Outside of work I'm usually stuck on some algorithmic problem out of stubbornnes
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/stats.svg" height="170" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/top-langs.svg" height="170" alt="Top Languages" />
+</div>
+
+<br>
+
+### LeetCode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Piyushs2k4?theme=tokyonight&font=baloo&ext=activity" alt="LeetCode Stats" />
 </div>
 
 <br>
