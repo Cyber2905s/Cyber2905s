@@ -1,30 +1,32 @@
-<!-- Animated Waving Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Piyush%20Saini&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=60&descAlign=50" />
-</div>
+<h1 align="center">Hi, I'm Piyush Saini 👋</h1>
+<h3 align="center">Software Development Engineer | Backend & Cloud Architecture</h3>
 
-<div align="center">
-  <em>Architecting robust backend systems, conquering advanced algorithms, and scaling cloud infrastructure.</em>
-</div>
-<br>
+<p align="center">
+  <em>B.Tech in Computer Science and Engineering @ Vellore Institute of Technology</em>
+</p>
 
-### 🚀 The Engineering Profile
-- 💡 **Core Focus:** Engineering high-performance backend projects and writing highly optimized, low-latency C++.
-- 🧠 **Algorithmic Complexity:** 230+ problems solved on LeetCode. Deep expertise in Advanced DSA, specifically Dynamic Programming architectures (LIS, LDS, LSC, Minimum Mountain Removals).
-- ☁️ **Cloud Infrastructure:** AWS Certified Cloud Practitioner (CLF-C02).
-- ⚙️ **Code Philosophy:** Strict adherence to clean architecture and absolute zero `std::` namespace pollution in C++.
+---
+
+### 🚀 Engineering & Architecture Focus
+- ⚡ **Backend Systems:** Architecting scalable RESTful web services and highly concurrent TCP network servers using **FastAPI, Node.js/Express, and native C++**.
+- 🗄️ **Data & Infrastructure:** Designing robust, ACID-compliant pipelines with **PostgreSQL, Redis, VectorDB, and Docker**, deployed within the **AWS** ecosystem.
+- 🧠 **Algorithmic Mastery:** 417 algorithmic challenges conquered utilizing native C++. Deep expertise in **Dynamic Programming (73), Hash Tables (85), and Advanced Mathematics**.
+
+### 🏆 Certifications & Milestones
+- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
+- ⚙️ **IBM DevOps Fundamentals**
+- 🏅 **LeetCode 100 Days Badge (2026)**
 
 ### 🛠️ Technical Arsenal
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,aws,linux,git,github,bash,vscode&theme=dark&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,postgres,mysql,redis,aws,docker,linux,git,github,bash,vscode&theme=dark&perline=15" alt="Tech Stack Icons" />
   </a>
 </div>
 
 <br>
 
 ### 🐍 Contribution Activity
-<!-- The GitHub Snake Animation -->
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/github-contribution-grid-snake-dark.svg">
