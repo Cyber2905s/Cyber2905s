@@ -1,43 +1,58 @@
-<h1 align="center">Hi, I'm Piyush Saini 👋</h1>
-<h3 align="center">Software Development Engineer | Backend & Cloud Architecture</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Piyush%20Saini&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
 
 <p align="center">
-  <em>B.Tech in Computer Science and Engineering @ Vellore Institute of Technology</em>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don't+fall+over;C%2B%2B+%7C+Node.js+%7C+FastAPI+%7C+AWS;Currently+deep+in+a+distributed+systems+rabbit+hole;Turning+coffee+into+concurrent+code&font=Fira+Code&center=true&width=650&height=40&color=58A6FF&vCenter=true&size=22&pause=1500" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sainipiyush2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:piyushs2k4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 Engineering & Architecture Focus
-- ⚡ **Backend Systems:** Architecting scalable RESTful web services and highly concurrent TCP network servers using **FastAPI, Node.js/Express, and native C++**.
-- 🗄️ **Data & Infrastructure:** Designing robust, ACID-compliant pipelines with **PostgreSQL, Redis, VectorDB, and Docker**, deployed within the **AWS** ecosystem.
-- 🧠 **Algorithmic Mastery:** 417 algorithmic challenges conquered utilizing native C++. Deep expertise in **Dynamic Programming (73), Hash Tables (85), and Advanced Mathematics**.
+### About me
 
-### 🏆 Certifications & Milestones
-- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
-- ⚙️ **IBM DevOps Fundamentals**
-- 🏅 **LeetCode 100 Days Badge (2026)**
+I like taking systems apart to see why they break, then building ones that don't. Most of my time goes into backend architecture — APIs that hold up under real load, databases that don't lie to you about consistency, and infrastructure that doesn't page me at 3am.
 
-### 🛠️ Technical Arsenal
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,postgres,mysql,redis,aws,docker,linux,git,github,bash,vscode&theme=dark&perline=15" alt="Tech Stack Icons" />
-  </a>
+Lately that's meant a lot of time in FastAPI and Node, wrestling with PostgreSQL and Redis to get data pipelines that are actually ACID-compliant instead of just claiming to be, and enough AWS to occasionally forget to turn something off. When I want to slow down and think in a different register, I drop into raw C++ and mess with sockets and threads — there's something satisfying about a TCP server that doesn't leak memory after a thousand connections.
+
+Outside of work I'm usually stuck on some algorithmic problem out of stubbornness more than necessity, or reading through a codebase just to see how someone else solved the same headache I'm having.
+
+<br>
+
+### What I build with
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,nodejs,postgres,mysql,redis,aws,docker,linux,git,github,vscode&theme=dark&perline=15" alt="Tech Stack" />
 </div>
 
 <br>
 
-### 🐍 Contribution Activity
-<div align="left">
+### Contribution snake 🐍
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br>
 
-### 📊 Telemetry & Analytics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber2905s&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://leetcard.jacoblin.cool/Piyushs2k4?theme=tokyonight&font=baloo&ext=activity" height="170" alt="LeetCode Stats" />
+### GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyber2905s&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber2905s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
