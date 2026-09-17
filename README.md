@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don't+fall+over;C%2B%2B+%7C+Node.js+%7C+FastAPI+%7C+AWS;Currently+deep+in+a+distributed+systems+rabbit+hole;Turning+coffee+into+concurrent+code&font=Fira+Code&center=true&width=650&height=40&color=58A6FF&vCenter=true&size=22&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don't+fall+over;C%2B%2B+%7C+Node.js+%7C+FastAPI+%7C+AWS;Currently+deep+in+a+distributed+systems+rabbit+hole;Turning+coffee+into+concurrent+code&font=Fira+Code&center=true&width=760&height=50&color=58A6FF&vCenter=true&size=20&pause=1500" />
 </p>
 
 <p align="center">
@@ -47,8 +47,8 @@ Outside of work I'm usually stuck on some algorithmic problem out of stubbornnes
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber2905s&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber2905s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Cyber2905s/Cyber2905s/output/top-langs.svg" height="170" alt="Top Languages" />
 </div>
 
 <br>
