@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Piyush%20Saini&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Piyush+Saini&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend+%7C+Cloud+Engineer&descAlignY=55&descSize=18&v=2" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don't+fall+over;C%2B%2B+%7C+Node.js+%7C+FastAPI+%7C+AWS;Currently+deep+in+a+distributed+systems+rabbit+hole;Turning+coffee+into+concurrent+code&font=Fira+Code&center=true&width=760&height=50&color=58A6FF&vCenter=true&size=20&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don't+fall+over;C%2B%2B+%7C+Node.js+%7C+FastAPI+%7C+AWS;Currently+deep+in+a+distributed+systems+rabbit+hole;Turning+coffee+into+concurrent+code&font=Fira+Code&center=true&width=850&height=50&color=58A6FF&vCenter=true&size=19&pause=1500" />
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@
 ---
 
 ### About me
+
+I'm Piyush — a computer science undergrad who ended up spending most of his time on backend systems rather than anything with a UI.
 
 I like taking systems apart to see why they break, then building ones that don't. Most of my time goes into backend architecture — APIs that hold up under real load, databases that don't lie to you about consistency, and infrastructure that doesn't page me at 3am.
 
