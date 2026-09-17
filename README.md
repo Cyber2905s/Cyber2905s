@@ -58,7 +58,7 @@ The other half of my time goes into DSA, and not casually — I'm grinding towar
 ### LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Piyushs2k4?theme=tokyonight&font=baloo&ext=activity" alt="LeetCode Stats" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Piyushs2k4?theme=tokyonight" alt="LeetCode Stats" />
 </div>
 
 <br>
