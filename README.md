@@ -17,13 +17,13 @@
 
 ### About me
 
-I'm Piyush — a computer science undergrad who ended up spending most of his time on backend systems rather than anything with a UI.
+I’m Piyush, a computer science undergrad at VIT Chennai who ended up spending most of his time on backend systems rather than anything with a UI.
 
-I like taking systems apart to see why they break, then building ones that don't. Most of my time goes into backend architecture — APIs that hold up under real load, databases that don't lie to you about consistency, and infrastructure that doesn't page me at 3am.
+I like taking systems apart to see why they break, then building ones that don’t. Lately that’s meant three projects: a payments ledger that stays correct under concurrent transfers, an event pipeline that survives worker crashes, and a multi-tenant backend where the database itself enforces isolation. Most of my effort went into deciding what each system had to guarantee and proving it with tests and benchmarks.
 
-Lately that's meant a lot of time in FastAPI and Node, wrestling with PostgreSQL and Redis to get data pipelines that are actually ACID-compliant instead of just claiming to be, and enough AWS to occasionally forget to turn something off. When I want to slow down and think in a different register, I drop into raw C++ and mess with sockets and threads — there's something satisfying about a TCP server that doesn't leak memory after a thousand connections.
+That’s the part I enjoy most, which is why I’m drawn to technical program management: scoping the work, spotting risks early, and making sure what ships is what was promised. This semester I’m the link between my research team and our faculty guide, keeping reviews and reports on track.
 
-The other half of my time goes into DSA, and not casually — I'm grinding toward SDE roles at companies where the bar for that is genuinely high, so it's less a hobby and more a daily habit at this point. Most nights end with one more problem than I planned on solving.
+When I want to slow down, I drop into C++ and mess with sockets and threads. I also solve DSA problems regularly.
 
 <br>
 
